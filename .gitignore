@@ -1,6 +1,7 @@
 # course config files
 *.yaml
 /venv/
+/env/
 
 # gradle
 .gradle/
